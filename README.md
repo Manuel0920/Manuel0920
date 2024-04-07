@@ -1,5 +1,5 @@
-### Hi there 👋
-
+Hola, mi nombre es Manuel y soy estudiante de la carrera de ingenieria en desarrollo de software 👋
+Aquí se encuentran algunos proyectos realizados de manera individual o de manera colavorativa con compañeros de carrera.
 <!--
 **Manuel0920/Manuel0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
